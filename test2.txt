@@ -1,2 +1,2 @@
 this is another test file.
-but now i have changed it
+another line has been added now.
